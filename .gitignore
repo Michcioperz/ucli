@@ -1,4 +1,6 @@
 *.pyc
 __pycache__
-
+build/
+dist/
+uw_usos_cli.egg-info
 *.swp

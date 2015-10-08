@@ -5,7 +5,7 @@ def main():
     args = arguments.get_parser().parse_args()
 
     if args.version:
-        print ("no version yet")
+        print("no version yet")
         exit(0)
 
     if "func" in vars(args).keys():
