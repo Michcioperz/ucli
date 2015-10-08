@@ -7,7 +7,7 @@ def get_parser():
 
 
     parser.add_argument("-a", "--address", required=True,
-            help="serwer address")
+            help="server address")
 
     parser.add_argument("-v", "--verbose", action="store_true",
             help="be more verbose")
